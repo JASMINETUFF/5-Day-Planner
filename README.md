@@ -9,4 +9,4 @@ Users can write notes and plans in each timeblock text area. Time blocks indicat
 
 Click [Here](https://jasminetuff.github.io/5-Day-Planner/) to see the deployed application.
 
-![Screenshot of Day Planner web application](assets/preview.png)
+![Screenshot of Day Planner web application](https://github.com/JASMINETUFF/5-Day-Planner/blob/1c23336443d757b8c68c6dafffe47b9b9e8cb704/Assets/preview.png)
